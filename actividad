@@ -1,0 +1,64 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "nombre": "Ana Lopez",
+      "edad": 28,
+      "mail": "ana.lopez@mail.com"
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos Perez",
+      "edad": 35,
+      "mail": "carlos.perez@mail.com"
+    },
+    {
+      "id": 3,
+      "nombre": "Maria Gomez",
+      "edad": 22,
+      "mail": "maria.gomez@mail.com"
+    },
+    {
+      "id": 4,
+      "nombre": "Juan Martinez",
+      "edad": 40,
+      "mail": "juan.martinez@mail.com"
+    },
+    {
+      "id": 5,
+      "nombre": "Lucia Fernandez",
+      "edad": 30,
+      "mail": "lucia.fernandez@mail.com"
+    },
+    {
+      "id": 6,
+      "nombre": "Pedro Sanchez",
+      "edad": 27,
+      "mail": "pedro.sanchez@mail.com"
+    },
+    {
+      "id": 7,
+      "nombre": "Sofia Ramirez",
+      "edad": 19,
+      "mail": "sofia.ramirez@mail.com"
+    },
+    {
+      "id": 8,
+      "nombre": "Diego Torres",
+      "edad": 45,
+      "mail": "diego.torres@mail.com"
+    },
+    {
+      "id": 9,
+      "nombre": "Valentina Castro",
+      "edad": 33,
+      "mail": "valentina.castro@mail.com"
+    },
+    {
+      "id": 10,
+      "nombre": "Martin Diaz",
+      "edad": 29,
+      "mail": "martin.diaz@mail.com"
+    }
+  ]
+}

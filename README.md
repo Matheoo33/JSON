@@ -11,12 +11,17 @@ Se usa muchísimo en APIs, configuraciones y almacenamiento de datos.
 JSON se basa en dos estructuras principales:
 
 Objeto → { clave: valor }
+
 Arreglo (array) → [ valor1, valor2, ... ]
 
 
+
 *{*
+
 *"nombre": "Juan",*
+
   *"edad": 25*
+
 *}*
 
 
